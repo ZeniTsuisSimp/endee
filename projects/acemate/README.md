@@ -9,9 +9,9 @@ https://github.com/ZeniTsuisSimp/AceMate
 https://acemate-production.up.railway.app
 
 ## What it does
-AceMate transforms PDFs into a searchable vector knowledge base 
-using Endee Vector DB. Students upload notes and syllabus, then 
-interact with an AI that answers questions, predicts exam questions, 
+AceMate transforms PDFs into a searchable vector knowledge base
+using Endee Vector DB. Students upload notes and syllabus, then
+interact with an AI that answers questions, predicts exam questions,
 summarizes topics, generates MCQs, and tracks weak areas.
 
 ## How Endee is Used
